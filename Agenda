@@ -30,3 +30,8 @@ Link Login: https://10.60.81.80:5001/#/signin
 Link URL / IP: https://10.60.82.10 atau https://10.60.82.10/login
 ​Username: Administrator
 ​Password: 5C1@4dm1n20
+
+
+uac
+.\sci-pc (tanda titik dan backslash memastikan Windows membaca login sebagai user lokal PC, bukan domain) atau cukup ketik sci-pc
+​Password: Sc1@dmin
