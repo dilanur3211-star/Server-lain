@@ -1,0 +1,24 @@
+Caranya: Si dummy tinggal membuka Google Chrome di PC-nya, lalu mengetik alamat panel manajemen virtual pusat: [https://10.60.81.20](https://10.60.81.20).
+​Kunci yang dipakai: Username administrator@vsphere.local dengan password 5C1@4dm1n20!!**&&$$ (data Juni 2026).
+
+
+​Cara si dummy membukanya: Dia tinggal menekan tombol Windows + R di keyboard PC operator, mengetik mstsc, lalu menekan Enter.
+
+Jalur 2: Pintu Samping (Web ESXI Host Client) – Jalur Bypass
+​Jika karena suatu hal panel pusat vSphere (81.20) sedang dikunci atau diproteksi, si dummy bisa langsung menembak ke server fisik aslinya (host penyedia virtualisasi).
+​Caranya: Dia membuka browser dan mengetik salah satu IP dari tiga server fisik raksasa yang tercatat di data ID 25, misalnya: [https://10.60.81.181/ui/#/login](https://10.60.81.181/ui/#/login) (ESXI 1), atau .182 (ESXI 2), atau .183 (ESXI 3).
+​Kunci yang dipakai: Username root dengan password masing-masing server (seperti @Sciesx1, @Sciesx2, atau @Sciesx3).
+​Hasilnya: Dia bisa mengendalikan sebagian mesin virtual yang kebetulan sedang menumpang hidup di dalam server fisik spesifik tersebut.
+
+
+Langkah 4: Proses Masuk ke Sophos Firewall (10.60.1.1) – Persentase Berhasil: 90%
+​Si dummy membuka Google Chrome lagi.
+​Dia mengetik: https://10.60.1.1:10443.
+​Masukkan Username: admin dan Password hasil enkripsi/catatan yang dia punya: @5C14dm1n26!!**&&$$.
+​Dasbor Sophos langsung terbuka, menampilkan seluruh grafik lalu lintas internet pabrik.
+
+
+​Cara si dummy membukanya: Dia tinggal menekan tombol Windows + R di keyboard PC operator, mengetik mstsc, lalu menekan Enter.
+
+
+
